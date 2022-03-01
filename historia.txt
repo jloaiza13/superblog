@@ -6,6 +6,7 @@ cada dia mas
 
 vamos a hacer un rollbak
 
+commit 1 
 probando nuevamente
 
 ultima prueba 
